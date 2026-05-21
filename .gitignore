@@ -1,0 +1,12 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+bypass_prefs.txt
+tg_secret.txt
+_zapret_update.zip
+_zapret_new/
+.vscode/
+.idea/
